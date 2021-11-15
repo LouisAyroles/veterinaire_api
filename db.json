@@ -1,0 +1,110 @@
+{
+  "animals": [
+    {
+      "id": 1,
+      "name": "Idéfix",
+      "species": "doggy",
+      "veterinarian": "Panoramix D'Armorique",
+      "comment": "Développe une allergie à la potion magique.",
+      "photo": "https://animalaxy.fr/wp-content/uploads/2017/09/776px-Westie_Chloe.jpg",
+      "email": "test1@gmail.com",
+      "phoneNumber": "06.12.34.56.78"
+    },
+    {
+      "id": 2,
+      "name": "Chatbus",
+      "species": "cat",
+      "veterinarian": "Ged Épervier",
+      "comment": "Prendre rdv 1 mois à l'avance pour réserver le hangar voisin.",
+      "photo": "https://resize1.prod.docfr.doc-media.fr/s/1200/img/var/doctissimo/storage/images/fr/www/animaux/chat/education-chat/apprendre-la-proprete-a-un-chat/711041-4-fre-FR/apprendre-la-proprete-a-un-chat.jpg",
+      "email": "test2@gmail.com",
+      "phoneNumber": "06.12.34.56.79"
+    },
+    {
+      "id": 3,
+      "name": "Teto",
+      "species": "fox-squirrel",
+      "veterinarian": "Ged Épervier",
+      "comment": "Très agité.",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/4/41/Fox_Squirrel_%2814539535789%29.jpg",
+      "email": "test3@gmail.com",
+      "phoneNumber": "06.12.34.56.80"
+    },
+    {
+      "id": 4,
+      "name": "Dina",
+      "species": "border-collie",
+      "veterinarian": "Ged Épervier",
+      "comment": "Trés douce.",
+      "photo": "https://www.illicoveto.com/wp-content/uploads/Border-Collie-768x958.jpg",
+      "email": "test3@gmail.com",
+      "phoneNumber": "06.12.34.56.80"
+    },
+    {
+      "name": "Roger",
+      "species": "Herisson",
+      "comment": "Il est gentil.",
+      "veterinarian": "Ged",
+      "email": "test@mail.com",
+      "phoneNumber": "06.06.06.06.06",
+      "photo": "https://nord.lpo.fr/wp-content/uploads/2020/07/herisson-James-C-flickr-1024x684.jpg",
+      "id": 5
+    },
+    {
+      "name": "Edwige",
+      "species": "hibou",
+      "comment": "La plus belle des chouettes",
+      "veterinarian": "Ged",
+      "email": "test@mail.com",
+      "phoneNumber": "06.06.06.06.06",
+      "photo": "https://file1.telestar.fr/var/telestar/storage/images/3/0/7/1/3071805/le-harfang-cette-mysterieuse-chouette-des-neiges.jpg?alias=exact1024x768_l",
+      "id": 6
+    },
+    {
+      "name": "Baloo",
+      "species": "labrador",
+      "comment": "Il est trop gentil.",
+      "veterinarian": "Ged",
+      "email": "test@mail.com",
+      "phoneNumber": "06.06.06.06.06",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/2/26/YellowLabradorLooking_new.jpg",
+      "id": 7
+    },
+    {
+      "photo": "https://i.skyrock.net/1633/20201633/pics/599530858.jpg",
+      "name": "Grispoil",
+      "species": "Mearas",
+      "comment": "Le roi des chevaux",
+      "veterinarian": "Hagrid",
+      "email": "contact@grispoil.fr",
+      "phoneNumber": "06.05.04.03.02",
+      "id": 8
+    }
+  ],
+  "veterinarians": [
+    {
+      "id": 1,
+      "firstName": "Panoramix",
+      "lastName": "D'Armorique",
+      "photo": "https://www.asterix.com/illus/asterix-de-a-a-z/les-personnages/perso/g32b.gif"
+    },
+    {
+      "id": 2,
+      "firstName": "Ged",
+      "lastName": "Épervier",
+      "photo": "https://www.veterinaire-toulouse.com/media/images/upload/home1.jpg"
+    },
+    {
+      "lastName": "LeNouveau",
+      "firstName": "Veto3",
+      "photo": "https://resize1.prod.docfr.doc-media.fr/rcrop/650,380,center-middle/img/var/doctissimo/storage/images/fr/www/animaux/chat/sante-chat/choix-du-veterinaire-pour-son-chat/721191-2-fre-FR/choix-du-veterinaire-pour-son-chat.jpg",
+      "id": 3
+    },
+    {
+      "photo": "https://www.filalapat.fr/sites/default/files/inline-images/v%C3%A9t%C3%A9rinaire_confinement.jpg",
+      "lastName": "Vet",
+      "firstName": "Ment",
+      "id": 4
+    }
+  ]
+}
