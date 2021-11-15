@@ -1,0 +1,27 @@
+{
+  "name": "veterinaire_api",
+  "version": "1.0.0",
+  "description": "fake server with fake database",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Louis Ayroles",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LouisAyroles/veterinaire_api.git"
+  },
+  "keywords": [
+    "api",
+    "animals",
+    "veterinary"
+  ],
+  "bugs": {
+    "url": "https://github.com/LouisAyroles/veterinaire_api/issues"
+  },
+  "homepage": "https://github.com/LouisAyroles/veterinaire_api#readme"
+}
